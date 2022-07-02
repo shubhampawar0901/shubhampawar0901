@@ -1,6 +1,6 @@
 <a href="#"><img width="50%" height="auto" src="https://www.aegisinfoways.com/images/java/java.jpg" height="105px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Shubham Pawar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Shubham Pawar</h1>
 <h3 align="center">A passionate Java Backend Developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampawar0901&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampawar0901" /> </p>
