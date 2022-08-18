@@ -1,25 +1,65 @@
-<a href="#"><img width="50%" height="auto" src="https://www.aegisinfoways.com/images/java/java.jpg" height="67px"/></a>
+[![MasterHead align="center"](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Shubham Pawar</h1>
-<h3 align="center">A passionate Java Backend Developer from India!</h3>
-
+<h3 align="center">A Passionate Java Backend Developer who writes clean, elegant and efficient code.!</h3>
+ </br>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampawar0901&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampawar0901" /> </p>
+<img align="right" alt="Coding" width="400" src="https://www.aegisinfoways.com/images/java/java.jpg">
 
-- 👨‍💻 I learnt **Java Backend Development** at Masai School
 
-- 📫 Reach out to me **shubhampawar09011998@gmail.com**
+
+ 👨‍💻 I learnt **Java Backend Development** at Masai School
+ 
+ ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1mh8HpKKik-b8jpvG0YZu3W3l6_dK001k/view?usp=sharing">**RESUME**</a>
+ 
+ ➥ Here is my Portfolio : <a href="https://62bfcec131de8d788553bc72--shubham-pawar-sangli.netlify.app/">**PORTFOLIO**</a>
+
+ 🌱 Currently learning **Springboot**
+
+ 💬 Ask me about **Java, Apache Maven, Hibernate, Spring, Springboot, JavaScript, HTML5, CSS3**
+
+ 📫 Reach out to me **shubhampawar09011998@gmail.com**
+ 
+<h3 align="left">Connect with me: </h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubhampawar0901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhampawar0901" height="30" width="40" /></a>
+  <a href="https://twitter.com/9ShubhamPawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustubh_badve" height="30" width="40" /></a>
+</p>
+
+
+
+ </br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampawar0901&" alt="shubhampawar0901" /></p>
+<br>
+<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java 8" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+     <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring-Boot" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+   
+</p>
+<br>
 
 ## 📊 My Github Stats
 
@@ -37,7 +77,3 @@
 
 <br/>
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubhampawar0901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhampawar0901" height="30" width="40" /></a>
-</p>
