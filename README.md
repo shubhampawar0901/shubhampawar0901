@@ -18,7 +18,7 @@
 
  🌱 Currently learning **Springboot**
 
- 💬 Ask me about **Java, Apache Maven, Hibernate, Spring, Springboot, JavaScript, HTML5, CSS3**
+ 💬 Ask me about **Java,Spring, Springboot, Apache Maven, Hibernate, MySQL, JavaScript, HTML5, CSS3**
 
  📫 Reach out to me **shubhampawar09011998@gmail.com**
  
