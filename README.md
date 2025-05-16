@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Shubham Pawar</h1>
-<h3 align="center">A Passionate Java Backend Developer who writes clean, elegant and efficient code.!</h3>
+<h3 align="center">A Passionate Software Developer who writes clean, elegant and efficient code.!</h3>
  </br>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampawar0901&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampawar0901" /> </p>
@@ -18,7 +18,7 @@
 
  🌱 Currently learning **Springboot**
 
- 💬 Ask me about **Java,Spring, Springboot, Apache Maven, Hibernate, MySQL, JavaScript, HTML5, CSS3**
+ 💬 Ask me about **Java, Node.js, Spring, Springboot, Apache Maven, Hibernate, MySQL, JavaScript, HTML5, CSS3**
 
  📫 Reach out to me **shubhampawar09011998@gmail.com**
  
