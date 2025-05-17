@@ -16,7 +16,7 @@
  
  ➥ Here is my Portfolio : <a href="https://shubhampawarpotfolio.netlify.app//">**PORTFOLIO**</a>
 
- 🌱 Currently learning **Springboot**
+ 🌱 Currently Backend Developer at Eassylife (previously eassyserve)
 
  💬 Ask me about **Java, Node.js, Spring, Springboot, Apache Maven, Hibernate, MySQL, JavaScript, HTML5, CSS3**
 
