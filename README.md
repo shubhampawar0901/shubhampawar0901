@@ -10,7 +10,7 @@
 
 
 
- 👨‍💻 I learnt **Java Backend Development** at Masai School
+ 👨‍💻 I am backend developer at eassylife
  
  #➥ Here is my Resume : <a href="https://drive.google.com/file/d/1mh8HpKKik-b8jpvG0YZu3W3l6_dK001k/view?usp=sharing">**RESUME**</a>
  
