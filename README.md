@@ -12,7 +12,6 @@
 
  👨‍💻 I am backend developer at eassylife
  
- #➥ Here is my Resume : <a href="https://drive.google.com/file/d/1mh8HpKKik-b8jpvG0YZu3W3l6_dK001k/view?usp=sharing">**RESUME**</a>
  
  #➥ Here is my Portfolio : <a href="https://shubhampawarpotfolio.netlify.app//">**PORTFOLIO**</a>
 
