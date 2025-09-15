@@ -1,78 +1,69 @@
 ![snake gif](https://github.com/shubhampawar0901/shubhampawar0901/blob/output/github-contribution-grid-snake.gif)
 
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Shubham Pawar</h1>
-<h3 align="center">A Passionate Software Developer who writes clean, elegant and efficient code.!</h3>
- </br>
-  
+<h3 align="center">Backend & AI Engineer | Building Intelligent Systems with RAG, LLMs, and Scalable Backends</h3>
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampawar0901&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampawar0901" /> </p>
 <img align="right" alt="Coding" width="400" src="https://www.aegisinfoways.com/images/java/java.jpg">
 
+### 👨‍💻 About Me  
+- 🚀 Backend & AI Developer at **Eassylife** (Superapp)  
+- 🔭 Currently building **AI-powered applications** with LLMs, RAG, LangChain, LangGraph, and Vector Databases  
+- 🌱 Exploring **scalable backend systems** + **production-grade AI agents**  
+- 💬 Ask me about **Java, Node.js, Spring Boot, FastAPI, MySQL, AI Agents, RAG, Vector DBs**  
+- 📫 Reach me at **shubhampawar09011998@gmail.com**  
+- 🌐 Portfolio: [My Portfolio](https://shubhampawarpotfolio.netlify.app//)  
 
+---
 
- 👨‍💻 I am backend developer at eassylife
- 
- 
- #➥ Here is my Portfolio : <a href="https://shubhampawarpotfolio.netlify.app//">**PORTFOLIO**</a>
+### 🚀 Featured Projects  
 
- 🌱 Currently Backend Developer at Eassylife (previously eassyserve)
+🔹 [**Support Quality Intelligence Engine**](https://github.com/shubhampawar0901/edtech-support-intelligence)  
+- Multi-agent orchestration system with **LangGraph**  
+- Real-time **RAG pipeline** with adaptive chunking (<250ms retrieval)  
+- Achieved **97.2% factual accuracy** & **73% improvement** over baselines  
 
- 💬 Ask me about **Java, Node.js, Spring, Springboot, Apache Maven, Hibernate, MySQL, JavaScript, HTML5, CSS3**
+🔹 [**HRMS AI - AI-Powered HR Assistant**](https://github.com/shubhampawar0901/HRMS-AI-capabled-system)  
+- RAG-powered HR chatbot using **Gemini LLM + Pinecone Vector DB**  
+- Role-based SQL execution + RBAC enforced at middleware & DB level  
+- Built **8 AI-powered HR features** (resume parsing, attrition scoring, anomaly detection, etc.)  
 
- 📫 Reach out to me **shubhampawar09011998@gmail.com**
- 
-<h3 align="left">Connect with me: </h3>
+---
+
+### 🛠️ Tech Stack  
+
+**AI/ML**  
+`LLMs` · `RAG` · `LangChain` · `LangGraph` · `LangSmith` · `Vector Databases` · `AI Agents`  
+
+**Backend & Languages**  
+`Java` · `Spring Boot` · `Node.js/Express.js` · `FastAPI` · `Python` · `JavaScript`  
+
+**Databases & Infra**  
+`MySQL` · `MongoDB` · `Pinecone` · `AWS` · `MCP`  
+
+**Tools**  
+`Postman` · `Git` · `GitHub` · `Apache Maven` · `Docker`  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhampawar0901&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampawar0901&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampawar0901&theme=react&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+### 🤝 Connect with Me  
+
 <p align="left">
-<a href="https://linkedin.com/in/shubhampawar0901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhampawar0901" height="30" width="40" /></a>
-  <a href="https://twitter.com/9ShubhamPawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustubh_badve" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhampawar0901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/9ShubhamPawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 </p>
-
-
-
- </br>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampawar0901&" alt="shubhampawar0901" /></p>
-<br>
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<p>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java 8" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-     <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring-Boot" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-   
-</p>
-<br>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/shubhampawar0901/github-readme-stats"><img alt="Shubham Pawar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhampawar0901&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shubhampawar0901/github-readme-stats"><img alt="Shubham Pawar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampawar0901&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/shubhampawar0901/github-readme-activity-graph"><img alt="Shubham Pawar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhampawar0901&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
