@@ -14,8 +14,6 @@
 - 🌱 Exploring **scalable backend systems** + **production-grade AI agents**  
 - 💬 Ask me about **Java, Node.js, Spring Boot, FastAPI, MySQL, AI Agents, RAG, Vector DBs**  
 - 📫 Reach me at **shubhampawar09011998@gmail.com**  
-- 🌐 Portfolio: [My Portfolio](https://shubhampawarpotfolio.netlify.app//)  
-
 ---
 
 ### 🚀 Featured Projects  
