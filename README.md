@@ -13,7 +13,7 @@
 - 🔭 Currently building **AI-powered applications** with LLMs, RAG, LangChain, LangGraph, and Vector Databases  
 - 🌱 Exploring **scalable backend systems** + **production-grade AI agents**  
 - 💬 Ask me about **Java, Node.js, Spring Boot, FastAPI, MySQL, AI Agents, RAG, Vector DBs**  
-- 📫 Reach me at **shubhampawar09011998@gmail.com**  
+- 📫 Reach me at **9shubhampawar9@gmail.com**  
 ---
 
 ### 🚀 Featured Projects  
